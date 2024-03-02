@@ -4,17 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "28a410bfabdbb1c3",
+        "id": "c00679fc03387094",
         "type": "tabs",
         "children": [
           {
-            "id": "e27144c50d3c4435",
+            "id": "0c296e01a1ba3950",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "ooooooo.md"
+                "file": "plan/Пешечные/Пешечные эндшпили 2.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09187f100f7bace6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plan/Пешечные/Пешечные эндшпили 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "be9131e923375354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad882fa229b03c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plan/Пешечные/Пешечные эндшпили 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a1a20c53694fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plan/Пешечные/Пешечные эндшпили.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a18c8927dee91df3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "12992d3c2bfac2ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af8972795eb45a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plan/Учебный план по эндшпилям.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "plan/Учебный план по эндшпилям.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "plan/Учебный план по эндшпилям.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "plan/Учебный план по эндшпилям.md"
+              }
             }
           }
         ]
@@ -141,8 +214,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e27144c50d3c4435",
+  "active": "af8972795eb45a00",
   "lastOpenFiles": [
+    "plan/Пешечные/Пешечные эндшпили.md",
+    "plan/Учебный план по эндшпилям.md",
+    "plan/Пешечные/Пешечные эндшпили 2.md",
+    "plan/Пешечные/Пешечные эндшпили 1.md",
+    "plan/Ладейные/Ладейные эндшпили.md",
+    "plan/Многофигурные",
+    "plan/Слоновые",
+    "plan/Коневые",
+    "plan/Ладейные",
+    "plan/Пешечные",
+    "Без названия.canvas",
+    "plan/Слоновые/Слоновые эндшпили.md",
+    "plan/Многофигурные/Многофигурные.md",
+    "plan/Коневые/Коневые эндшпили.md",
+    "Без названия.md",
     "ooooooo.md"
   ]
 }
