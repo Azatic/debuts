@@ -4,90 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "c00679fc03387094",
-        "type": "tabs",
+        "id": "3d23c41f657af514",
+        "type": "split",
         "children": [
           {
-            "id": "0c296e01a1ba3950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plan/Пешечные/Пешечные эндшпили 2.md",
-                "mode": "preview",
-                "source": false
+            "id": "67d1e97a84e44867",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "455c90cba4eec040",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "plan/Учебный план по эндшпилям.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "09187f100f7bace6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plan/Пешечные/Пешечные эндшпили 2.md",
-                "mode": "source",
-                "source": false
+            "id": "57a7abb2abe79c50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "03c260f43ad379d8",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
-        ]
-      },
-      {
-        "id": "be9131e923375354",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bad882fa229b03c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plan/Пешечные/Пешечные эндшпили 1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24a1a20c53694fe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plan/Пешечные/Пешечные эндшпили.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a18c8927dee91df3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "12992d3c2bfac2ad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af8972795eb45a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plan/Учебный план по эндшпилям.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -137,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6410a664dcc6bb40",
@@ -214,20 +167,29 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "af8972795eb45a00",
+  "active": "455c90cba4eec040",
   "lastOpenFiles": [
-    "plan/Пешечные/Пешечные эндшпили.md",
+    "puzzle/main.synctex(busy)",
+    "puzzle/main.synctex.gz",
+    "puzzle/main.pdf",
+    "plan/Ладейные/Ладейный эндшпиль 3.md",
+    "plan/Ладейные/Ладейные эндшпили.md",
     "plan/Учебный план по эндшпилям.md",
     "plan/Пешечные/Пешечные эндшпили 2.md",
     "plan/Пешечные/Пешечные эндшпили 1.md",
-    "plan/Ладейные/Ладейные эндшпили.md",
+    "plan/Пешечные/Пешечные эндшпили.md",
+    "plan/Ладейные/Ладейные эндшпили 1.md",
+    "plan/Ладейные/Ладейные эндшпили 2.md",
+    "plan/Слоновые/Слоновые эндшпили.md",
+    "Без названия 1.canvas",
+    "2024-03-04.md",
+    "2024-03-02.md",
     "plan/Многофигурные",
     "plan/Слоновые",
     "plan/Коневые",
     "plan/Ладейные",
     "plan/Пешечные",
     "Без названия.canvas",
-    "plan/Слоновые/Слоновые эндшпили.md",
     "plan/Многофигурные/Многофигурные.md",
     "plan/Коневые/Коневые эндшпили.md",
     "Без названия.md",
